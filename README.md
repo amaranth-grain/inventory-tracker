@@ -112,7 +112,7 @@ Returns:
 
 POSTMAN:
 
-![](C:\Development\inventory-tracker\inventory-tracker-functions\functions\img\user-image.png)
+![](C:\Development\inventory-tracker\inventory-tracker-functions\img\user-image.png)
 
 
 
