@@ -10,7 +10,7 @@ const { db } = require("../util/admin");
 routes.get('/', FBAuth, asyncHandler(async (req, res) => {
 	let inventory = [];
 	// Retrieve inventory for logged in user
-	let data = await db.collection("inventory").where("userId", "==", `${req.user.uid}`).get();
+	let data = await db.collection("inventory").where("uid", "==", `${req.user.uid}`).get();
 	
 	data.forEach((doc) => {
 		inventory.push({
