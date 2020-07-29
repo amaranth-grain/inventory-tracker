@@ -110,12 +110,6 @@ Returns:
 
 
 
-POSTMAN:
-
-![](C:\Development\inventory-tracker\inventory-tracker-functions\img\user-image.png)
-
-
-
 ------------------
 
 
